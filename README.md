@@ -22,7 +22,7 @@ The current release is **1.0.2**.
 
 
 
-![Specimen](images/specimen.png)
+![Specimen](assets/specimen.png)
 
 
 
