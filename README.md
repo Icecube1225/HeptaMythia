@@ -12,11 +12,7 @@ A custom typeface with OpenType ligatures and mark positioning for specialized p
 
 HeptaMythia is an original typeface designed from scratch by Icecube1225.
 
-The project includes custom glyph outlines and OpenType features for ligatures,
-
-mark positioning, and specialized phonetic typography.
-
-
+The project includes custom glyph outlines and OpenType features for ligatures, mark positioning, and specialized phonetic typography.
 
 The current release is **v1.0.2**.
 
@@ -162,5 +158,6 @@ Contact: icecube1225@outlook.com
 
 
 
+## Trivia
 
-
+HeptaMythia was designed exclusively for the PHX Puzzle Hunt Society of Nanjing Foreign Language School as the foundation for a puzzle featuring English phoneme substitution. It was first released in their club publication, *NFLS Weekly Puzzles Vol. 016* (*南外周周谜 Vol. 016*).
