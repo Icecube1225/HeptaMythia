@@ -18,6 +18,14 @@ The current release is **v1.0.2**.
 
 
 
+## Specimen
+
+
+
+![Specimen](images/specimen.png)
+
+
+
 ## Download
 
 
@@ -148,6 +156,22 @@ See [`CHANGELOG.md`](CHANGELOG.md).
 
 
 
+## Directions
+
+
+
+See [`DIRECTIONS.pdf`](DIRECTIONS.pdf).
+
+
+
+## Trivia
+
+
+
+HeptaMythia was designed exclusively for the PHX Puzzle Hunt Society of Nanjing Foreign Language School as the foundation for a puzzle featuring English phoneme substitution. It was first released in their club publication, *NFLS Weekly Puzzles Vol. 016* (*南外周周谜 Vol. 016*).
+
+
+
 ## Contact
 
 
@@ -155,9 +179,3 @@ See [`CHANGELOG.md`](CHANGELOG.md).
 Project repository: https://github.com/Icecube1225/HeptaMythia
 
 Contact: icecube1225@outlook.com
-
-
-
-## Trivia
-
-HeptaMythia was designed exclusively for the PHX Puzzle Hunt Society of Nanjing Foreign Language School as the foundation for a puzzle featuring English phoneme substitution. It was first released in their club publication, *NFLS Weekly Puzzles Vol. 016* (*南外周周谜 Vol. 016*).
