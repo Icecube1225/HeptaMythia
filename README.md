@@ -1,4 +1,4 @@
-\# HeptaMythia
+# HeptaMythia
 
 
 
@@ -6,7 +6,7 @@ A custom typeface with OpenType ligatures and mark positioning for specialized p
 
 
 
-\## Overview
+## Overview
 
 
 
@@ -18,49 +18,49 @@ mark positioning, and specialized phonetic typography.
 
 
 
-The current release is \*\*v1.0.2\*\*.
+The current release is **v1.0.2**.
 
 
 
-\## Download
+## Download
 
 
 
-The latest release is available on the \[Releases](https://github.com/Icecube1225/HeptaMythia/releases) page.
+The latest release is available on the [Releases](https://github.com/Icecube1225/HeptaMythia/releases) page.
 
 
 
-Latest version: \*\*HeptaMythia\_v1.0.2\*\*
+Latest version: **HeptaMythia_v1.0.2**
 
 
 
 For historical versions, see the corresponding GitHub Releases:
 
-\- v1.0
+- v1.0
 
-\- v1.0.1
+- v1.0.1
 
-\- v1.0.2
-
-
-
-\## Installation
+- v1.0.2
 
 
 
-\### Windows
+## Installation
 
 
 
-1\. Download the `.otf` file from the desired release.
-
-2\. Open the file and choose \*\*Install\*\* in Windows Font Viewer, or right-click it and choose \*\*Install\*\*.
-
-3\. Restart an application if the font does not appear immediately.
+### Windows
 
 
 
-\### Other systems
+1. Download the `.otf` file from the desired release.
+
+2. Open the file and choose **Install** in Windows Font Viewer, or right-click it and choose **Install**.
+
+3. Restart an application if the font does not appear immediately.
+
+
+
+### Other systems
 
 
 
@@ -68,7 +68,7 @@ Use the normal font installation procedure of the operating system.
 
 
 
-\## OpenType features
+## OpenType features
 
 
 
@@ -76,11 +76,11 @@ HeptaMythia uses OpenType features including:
 
 
 
-\- `liga` for ligature substitution.
+- `liga` for ligature substitution.
 
-\- `mark` for mark positioning.
+- `mark` for mark positioning.
 
-\- Mark-to-ligature positioning for marks attached to particular ligature components.
+- Mark-to-ligature positioning for marks attached to particular ligature components.
 
 
 
@@ -88,7 +88,7 @@ Exact feature behavior depends on the text-shaping engine used by the applicatio
 
 
 
-\## Source files
+## Source files
 
 
 
@@ -98,15 +98,15 @@ The source contains the glyph outlines, anchors, GSUB/GPOS lookup definitions, a
 
 
 
-\## License
+## License
 
 
 
-HeptaMythia Font Software is licensed under the \*\*SIL Open Font License, Version 1.1 (OFL-1.1)\*\*.
+HeptaMythia Font Software is licensed under the **SIL Open Font License, Version 1.1 (OFL-1.1)**.
 
 
 
-See \[`LICENSE.txt`](LICENSE.txt) for the complete license text.
+See [`LICENSE.txt`](LICENSE.txt) for the complete license text.
 
 
 
@@ -114,7 +114,7 @@ OFL permits use, study, copying, modification, embedding, and redistribution of 
 
 
 
-\## Attribution
+## Attribution
 
 
 
@@ -134,7 +134,7 @@ If you distribute a modified version, state that it has been modified and follow
 
 
 
-\## Third-party materials
+## Third-party materials
 
 
 
@@ -144,15 +144,15 @@ No third-party font outlines are intentionally included in this release.
 
 
 
-\## Version history
+## Version history
 
 
 
-See \[`CHANGELOG.md`](CHANGELOG.md).
+See [`CHANGELOG.md`](CHANGELOG.md).
 
 
 
-\## Contact
+## Contact
 
 
 
