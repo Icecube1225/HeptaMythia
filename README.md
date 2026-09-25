@@ -14,7 +14,7 @@ HeptaMythia is an original typeface designed from scratch by Icecube1225.
 
 The project includes custom glyph outlines and OpenType features for ligatures, mark positioning, and specialized phonetic typography.
 
-The current release is **v1.0.2**.
+The current release is **1.0.2**.
 
 
 
@@ -34,17 +34,11 @@ The latest release is available on the [Releases](https://github.com/Icecube1225
 
 
 
-Latest version: **HeptaMythia_v1.0.2**
+Latest version: **HeptaMythia_1.0.2**
 
 
 
-For historical versions, see the corresponding GitHub Releases:
-
-- v1.0
-
-- v1.0.1
-
-- v1.0.2
+Due to improper early file management, no earlier versions are available.
 
 
 
@@ -148,6 +142,14 @@ No third-party font outlines are intentionally included in this release.
 
 
 
+## Directions
+
+
+
+WIP.
+
+
+
 ## Version history
 
 
@@ -156,19 +158,11 @@ See [`CHANGELOG.md`](CHANGELOG.md).
 
 
 
-## Directions
-
-
-
-See [`DIRECTIONS.pdf`](DIRECTIONS.pdf).
-
-
-
 ## Trivia
 
 
 
-HeptaMythia was designed exclusively for the PHX Puzzle Hunt Society of Nanjing Foreign Language School as the foundation for a puzzle featuring English phoneme substitution. It was first released in their club publication, *NFLS Weekly Puzzles Vol. 016* (*南外周周谜 Vol. 016*).
+HeptaMythia was designed exclusively for the PHX Puzzle Hunt Society of Nanjing Foreign Language School as the foundation for a puzzle featuring English phoneme substitution. It was first released in their club publication, *NFLS Weekly Puzzles Vol. 016* (*南外周周谜 Vol. 016*). See [`Vol.016_WabbyWabbo_Ep.2_Correction1.pdf`](assets/Vol.016_WabbyWabbo_Ep.2_Correction1.pdf) for the publication file.
 
 
 
